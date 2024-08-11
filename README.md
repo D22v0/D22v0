@@ -1,0 +1,9 @@
+- 👋 OLá eu sou o David
+- 👀 Sou no momento estudante| Ciencia de Dados, Desenvolvimento Full-stack...
+- 🌱 Conhecimento em Python, Front-End, Back-End, Visualização de dados, Machine-learning...
+- ⚡ Hobbies: Games, Montagem de Desktops...
+
+<!---
+D22v0/D22v0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
